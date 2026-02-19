@@ -1,0 +1,9 @@
+{
+  "name": "design-a-dashboard",
+  "version": "1.0.0",
+  "description": "Design A Dashboard — built with Citadel AI",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve ."
+  }
+}
